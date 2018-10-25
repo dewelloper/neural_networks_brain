@@ -1,0 +1,11 @@
+D:\projects\Brain\Brainer\Brainer\bin\Debug\netcoreapp2.0\Brainer.deps.json
+D:\projects\Brain\Brainer\Brainer\bin\Debug\netcoreapp2.0\Brainer.runtimeconfig.json
+D:\projects\Brain\Brainer\Brainer\bin\Debug\netcoreapp2.0\Brainer.runtimeconfig.dev.json
+D:\projects\Brain\Brainer\Brainer\bin\Debug\netcoreapp2.0\Brainer.dll
+D:\projects\Brain\Brainer\Brainer\bin\Debug\netcoreapp2.0\Brainer.pdb
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.csprojResolveAssemblyReference.cache
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.csproj.CoreCompileInputs.cache
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.AssemblyInfoInputs.cache
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.AssemblyInfo.cs
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.dll
+D:\projects\Brain\Brainer\Brainer\obj\Debug\netcoreapp2.0\Brainer.pdb
